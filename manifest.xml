@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>AI Range Extender</Name>
-  <Guid>5de61e62-1879-4365-b971-9979c67d138c</Guid>
-  <Version>v1.0</Version>
-</PluginManifest>
